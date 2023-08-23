@@ -21,7 +21,7 @@
 					<p>See Original <br />
 					AFFIDAVIT <a href="http://barondavidward.com">BDW.com</a></p>
 					<ul class="actions">
-						<li><a href="https://justpaste.it/img/cfc377f4869da037044eb6afabf01bc6..png" class="button primary icon solid fa-download">PUBLIC NOTICE</a></li>
+						<li><a href="https://justpaste.it/img/cfc377f4869da037044eb6afabf01bc6.png" class="button primary icon solid fa-download">PUBLIC NOTICE</a></li>
 						<li><a href="https://justpaste.it/img/4ebeb5f0a794b5d138b7ba9e93438da9.png" class="button icon solid fa-chevron-down scrolly">Affidavit and Securitized Lien</a></li>
 					</ul>
 				</div>
